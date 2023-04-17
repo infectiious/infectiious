@@ -4,7 +4,7 @@ My professional background is in Windows and Linux system administration, but I'
 
 One of my passions is self-hosting, which has become increasingly important in the age of cloud computing. I'm fascinated by the idea of controlling my own data and creating my own infrastructure. I've documented most of my current setup at [docs.eyeless.io](https://docs.eyeless.io).
 
-Check out my Linux dotfiles and configurations at dots.eyeless.io, where I've shared detailed documentation of my current setup. 
+Check out my Linux dotfiles and configurations at [dots.eyeless.io](https://dots.eyeless.io), where I've shared detailed documentation of my current setup. 
 
 If you have any questions, feel free to reach out to me and I'll do my best to assist you 🤠.
 
