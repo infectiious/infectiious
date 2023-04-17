@@ -2,7 +2,11 @@
 
 My professional background is in Windows and Linux system administration, but I'm always looking for opportunities to expand my horizons. Currently, I'm learning Kubernetes, which has been an exciting journey. I enjoy exploring new technologies and learning about their potential applications.
 
-One of my passions is self-hosting, which has become increasingly important in the age of cloud computing. I'm fascinated by the idea of controlling my own data and creating my own infrastructure. I've documented most of my current setup at [docs.eyeless.io](https://docs.eyeless.io). If you have any questions, feel free to reach out and I'll do my best to help 🤠.
+One of my passions is self-hosting, which has become increasingly important in the age of cloud computing. I'm fascinated by the idea of controlling my own data and creating my own infrastructure. I've documented most of my current setup at [docs.eyeless.io](https://docs.eyeless.io).
+
+Check out my Linux dotfiles and configurations at dots.eyeless.io, where I've shared detailed documentation of my current setup. 
+
+If you have any questions, feel free to reach out to me and I'll do my best to assist you 🤠.
 
 ---
 
