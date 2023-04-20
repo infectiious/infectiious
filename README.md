@@ -22,8 +22,8 @@ If you have any questions, feel free to reach out to me and I'll do my best to a
 ### 📈 GitHub Stats
 
 <a href="https://github.com/anuraghazra/github-readme-stats">
-  <img align="center" src="https://github-readme-stats.vercel.app/api?username=infectiious&show_icons=true&theme=dracula" height=200 />
+  <img align="center" src="https://github-readme-stats.vercel.app/api?username=infectiious&show_icons=true&theme=dracula" height=150 />
 </a>
 <a href="https://github.com/anuraghazra/convoychat">
-  <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=infectiious&layout=compact&theme=dracula" height=200 />
+  <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=infectiious&layout=compact&theme=dracula" height=150 />
 </a>
