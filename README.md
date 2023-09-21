@@ -12,10 +12,10 @@ If you have any questions, feel free to reach out to me and I'll do my best to a
 
 ### 🔧 Technologies & Tools
 
-[![Kubernetes](https://img.shields.io/badge/-Kubernetes-326ce5?logo=kubernetes&logoColor=white&style=for-the-badge)]([https://github.com/pre-commit/pre-commit](https://github.com/infectiious/rapture))
+[![Kubernetes](https://img.shields.io/badge/-Kubernetes-326ce5?logo=kubernetes&logoColor=white&style=for-the-badge)](https://github.com/infectiious/rapture)
 [![Read the Docs](https://img.shields.io/badge/-Docs-6857e6?logo=read-the-docs&logoColor=white&style=for-the-badge)](https://docs.eyeless.io)
-[![Dotfiles](https://img.shields.io/badge/-Dotfiles-ffb000?logo=files&logoColor=white&style=for-the-badge)]([https://github.com/pre-commit/pre-commit](https://github.com/infectiious/.dotfiles))
-[![GitHub Commit Activity](https://img.shields.io/github/commit-activity/y/infectiious/rapture?style=for-the-badge&labelColor=red)](https://github.com/pre-commit/pre-commit)
+[![Dotfiles](https://img.shields.io/badge/-Dotfiles-ffb000?logo=files&logoColor=white&style=for-the-badge)](https://github.com/infectiious/.dotfiles)
+[![GitHub Commit Activity](https://img.shields.io/github/commit-activity/y/infectiious/rapture?style=for-the-badge&labelColor=red)](https://github.com/infectiious#activity)
 
 ---
 
